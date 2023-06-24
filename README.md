@@ -39,7 +39,7 @@ FinFolio Plus leverages blockchain technology to address these challenges, provi
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/Fastest-Coder-First/team-ZeusDash)
-- [Drive Link to Screenshots of your project]([https://drive.google.com/drive/folders/1-4yxv0tFacmeiL3HV4LnqMMpuFB9aEDb?usp=sharing](https://drive.google.com/drive/folders/158z7ZSMK8hvNO3d5fko5JnT2Kf9rr-oQ?usp=drive_link))
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/158z7ZSMK8hvNO3d5fko5JnT2Kf9rr-oQ?usp=drive_link)
 
 
 ## 🤖Tech-Stack
