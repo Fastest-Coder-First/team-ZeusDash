@@ -60,7 +60,7 @@ FinFolio Plus leverages blockchain technology to address these challenges, provi
 - ChatGPT [Test](https://chat.openai.com/)
 
 #### File Structure
-
+```
 📦master
  ┣ 📂public
  ┣ 📂src                          
@@ -78,7 +78,7 @@ FinFolio Plus leverages blockchain technology to address these challenges, provi
  ┃ ┗ 📜logo.svg                 
  ┣ 📜README.md                              
  ┗ 📜package.xml
- 
+ ```
  
 
 ## 📈Progress
